@@ -27,6 +27,6 @@ weight: 3
 * **2014 - 2017**: Teaching assistant, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr).
   + Tutoring in mathematics.
   + Introduction to _Mathematica_.
-  + Statistical mechanics.s
+  + Statistical mechanics.
 * **2014**: Teaching assistant, [École Polytechnique](http://www.polytechnique.edu/en).
   + Individual tutoring in quantum mechanics.
