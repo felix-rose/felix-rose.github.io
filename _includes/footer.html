@@ -2,29 +2,18 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
+
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+         <li>Email: {{ site.email }}</li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
         </ul>
       </div>
 
@@ -32,6 +21,14 @@
         <p>{{ site.description }}</p>
       </div>
     </div>
+
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p class="text"><small> Site built with <a href="http://jekyllrb.com/">jekyll</a>, and hosted by <a href="http://github.com/felix-rose/felix-rose.github.io ">GitHub</a>.</small></p>
+      </div>  
+    </div>
+
 
   </div>
 
