@@ -16,7 +16,7 @@ weight: 3
 
 # Education
 
-* **2017**: Ph.D. in Physics, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr), Paris (France).
+* **2017**: Ph.D. in Physics, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en), Paris (France).
 * **2014**: M.Sc. in Physics, [École normale supérieure](http://www.ens.fr/en), Paris (France).
 * **2014**: M.Sc. in Engineering, [École Polytechnique](http://www.polytechnique.edu/en), Palaiseau (France).
 * **2012**: B.Sc. in Engineering, [École Polytechnique](http://www.polytechnique.edu/en), Palaiseau (France).
@@ -24,7 +24,7 @@ weight: 3
 
 # Teaching experience
 
-* **2014 - 2017**: Teaching assistant, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr).
+* **2014 - 2017**: Teaching assistant, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en).
   + Tutoring in mathematics.
   + Introduction to _Mathematica_.
   + Statistical mechanics.
