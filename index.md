@@ -14,7 +14,7 @@ width="100%;" max-width="100px;"
 
 <div class="header">
   <h2 style="display: inline;">About me</h2>
-  <img src="{{site.baseurl}}/docs/14324593_10153726700622484_5580898572646675150_o.jpg" style="display: inline; float: right; clear: right; margin: 15px;" width="20%;" min-width="100px;"/>
+  <img src="{{site.baseurl}}/docs/14324593_10153726700622484_5580898572646675150_o.jpg" style="display: inline; float: right; clear: right; margin: 15px;" width="25%;"/>
 </div>
  
 I am a postdoctoral researcher in theoretical physics.
