@@ -4,7 +4,7 @@ weight : 0
 ---
 
 
-[photo]: {{site.baseurl}}/docs/14324593_10153726700622484_5580898572646675150_o.jpg
+[photo]: {{site.baseurl}}/docs/frose_1804.jpg
 {: width="150px"} 
 
 <!--
@@ -14,7 +14,7 @@ width="100%;" max-width="100px;"
 
 <div class="header">
   <h2 style="display: inline;">About me</h2>
-  <img src="{{site.baseurl}}/docs/14324593_10153726700622484_5580898572646675150_o.jpg" style="display: inline; float: right; clear: right; margin: 15px;" width="25%;"/>
+  <img src="{{site.baseurl}}/docs/frose_1804.jpg" style="display: inline; float: right; clear: right; margin: 15px;" width="22.5%;"/>
 </div>
  
 I am a postdoctoral researcher in theoretical physics.
