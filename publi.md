@@ -10,7 +10,7 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 
 
-0. “A nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
+0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
 [Phys. Rev. B **97**, 174514 (2018)](https://doi.org/10.1103/PhysRevB.97.174514), [arXiv:1801.03118 [cond-mat.stat-mech]](https://arxiv.org/abs/1801.03118). [[PDF]({{site.baseurl}}/docs/PhysRevB.97.174514.pdf)]
 0. “Superuniversal transport near a (2+1)-dimensional quantum critical point,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
  [Phys. Rev. B **96**, 100501(R) (2017)](https://dx.doi.org/10.1103/PhysRevB.96.100501), [arXiv:1705.03905 [cond-mat.str-el]](https://arxiv.org/abs/1705.03905). [[PDF]({{site.baseurl}}/docs/PhysRevB.96.100501.pdf)]
@@ -28,6 +28,7 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
   
 # Posters and presentations given
 
+* “Real-time dynamics with FRG: overcoming the burden of analytic continuation.” [[Slides]({{site.baseurl}}/docs/rose_erg18.pdf)]
 * “Dynamics and transport in the vicinity of a quantum phase transition.” [[Slides]({{site.baseurl}}/docs/seminar_munchen.pdf)]
 * “Conductivity in the vicinity of a quantum critical point.” [[Slides]({{site.baseurl}}/docs/rose_erg16.pdf)] [[Video](https://indico.ictp.it/event/7608/session/2/contribution/42/material/video/0.link)]
 * “Higgs mode and conductivity in the vicinity of a quantum critical point.” [[Poster]({{site.baseurl}}/docs/poster_cargese.pdf)]
@@ -35,6 +36,7 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Conferences attended
 
+* [9<sup>th</sup> International Conference on the Exact Renormalization Group](https://erg2018.sciencesconf.org), Paris, France, July 2018.
 * [42<sup>nd</sup>Conference of the Middle European Cooperation in Statistical Physics](https://meco42.sciencesconf.org), Lyon, France, Febr. 2017.
 * [8<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.ictp.it/event/7608/), Trieste, Italy, Sept. 2016.
 * [Disorder in Condensed Matter and Ultracold Atoms](https://dcmua2016.sciencesconf.org), Cargèse, France, June-July 2016.
