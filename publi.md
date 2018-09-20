@@ -47,5 +47,6 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Ph.D. dissertation
 
-“Dynamics and transport in the vicinity of a two-dimensional quantum critical point.” [[Manuscript]({{site.baseurl}}/docs/Rose_manuscrit.pdf)] [[Slides]({{site.baseurl}}/docs/soutenance_rose.pdf)]
+“Dynamics and transport in the vicinity of a two-dimensional quantum critical point.”  
+<[tel-01872537](https://tel.archives-ouvertes.fr/tel-01872537)>. [[Manuscript]({{site.baseurl}}/docs/Rose_manuscrit.pdf)] [[Slides]({{site.baseurl}}/docs/soutenance_rose.pdf)]
 
