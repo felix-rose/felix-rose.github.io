@@ -2,11 +2,16 @@
 layout: page
 title: Curriculum vitae
 weight: 3
+lang: en
+ref: cv
+interLink: cv.html
 ---
 
 # Research experience
 
-* **2017 - present**: Postdoctoral researcher at the [Technical University of Munich](https://www.tum.de/nc/en/homepage/) (Germany), in [Prof. Wilhelm Zwerger's group](http://einrichtungen.ph.tum.de/T34/).
+
+* **2019 - present**: Postdoctoral researcher at the [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en) (Germany), in [Dr. Richard Schmidt's group](https://quantummatter.de), part of the [Theory Division](http://www2.mpq.mpg.de/Theorygroup/CIRAC/index.html).
+* **2017 - 2019**: Postdoctoral researcher at the [Technical University of Munich](https://www.tum.de/nc/en/homepage/) (Germany), in [Prof. Wilhelm Zwerger's group](http://einrichtungen.ph.tum.de/T34/).
 * **2014 - 2017**: Ph.D. candidate at [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr), Paris (France).
   + Advisor: [Dr. Nicolas Dupuis](https://www.lptmc.jussieu.fr/users/dupuis).
   + Dissertation title: *Dynamics and transport in the vicinity of a two-dimensional quantum critical point*.
@@ -24,9 +29,11 @@ weight: 3
 
 # Teaching experience
 
+* **2018 - 2019**: Teaching assistant and coordinator, [Technical University of Munich](https://www.tum.de/nc/en/homepage/).
+  + Theory of condensed matter (graduate). 
 * **2014 - 2017**: Teaching assistant, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en).
   + Tutoring in mathematics (undergraduate).
-  + Introduction to _Mathematica_ (undergraduate).
-  + Quantum statistical physics.
+  + Introduction to *Mathematica* (undergraduate).
+  + Quantum statistical physics (graduate).
 * **2014**: Teaching assistant, [École Polytechnique](http://www.polytechnique.edu/en).
   + Individual tutoring in elementary quantum mechanics.

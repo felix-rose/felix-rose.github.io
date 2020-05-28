@@ -8,7 +8,10 @@
 # Site settings
 title: Félix Rose
 email: felix(dot)rose(at)m4x(dot)org
+email_fr: felix(point)rose(arobase)m4x(point)org
   #Homepage of Dr. Félix Rose
+description_fr: > # this means to ignore newlines until "baseurl:"
+  Chercheur postdoctoral en physique de la matière condensée
 description: > # this means to ignore newlines until "baseurl:"
   Postdoctoral researcher in condensed matter physics
 #baseurl: "/felix-rose.github.io" # the subpath of your site, e.g. /blog
@@ -20,5 +23,5 @@ url: "localhost:4000" # the base hostname & protocol for your site
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-cayman
-plugins:
-   - jekyll-feed
+
+include: ['fr','en']

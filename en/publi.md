@@ -2,13 +2,14 @@
 layout: page
 title: Publication list
 weight: 2
+lang: en
+ref: publ
+interLink: publi.html
 ---
 
 Bibliometrics can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
 # Journal articles
-
-
 
 0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
 [Phys. Rev. B **97**, 174514 (2018)](https://doi.org/10.1103/PhysRevB.97.174514), [arXiv:1801.03118 [cond-mat.stat-mech]](https://arxiv.org/abs/1801.03118). [[PDF]({{site.baseurl}}/docs/PhysRevB.97.174514.pdf)]
@@ -25,9 +26,17 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 0. “Spin- and valley-dependent magneto-optical properties of MoS<sub>2</sub>,” **F.&nbsp;Rose**, M.&nbsp;O.&nbsp;Goerbig, and F.&nbsp;Piéchon.  
  [Phys. Rev. B **88**, 125438 (2013)](https://dx.doi.org/10.1103/PhysRevB.88.125438), [arXiv:1307.2884 [cond-mat.mes-hall]](https://arxiv.org/abs/1307.2884). [[PDF]({{site.baseurl}}/docs/PhysRevB.88.125438.pdf)]
 {: reversed="reversed"}
-  
+
+# Prepublications
+
+0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;Rose**, O.&nbsp;Golan and S.&nbsp;Moroz.  
+[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).  
+
 # Posters and presentations given
 
+* “Disorder in order: Anderson localization in a randomless cold atom system.” [[Slides]({{site.baseurl}}/docs/rose_groupSem20.pdf)]
+* “Disorder in order: simulating a random scattering potential with a randomless cold atom system.” [[Slides]({{site.baseurl}}/docs/rose_vienna19.pdf)] [[Video](https://www.youtube.com/watch?v=3MMhnhb2H9Y)]
+* “Hall conductivity and viscosity of a two-dimensional chiral *p*+i*p* superconductor.” [[Slides]({{site.baseurl}}/docs/rose_retreat19.pdf)]
 * “Real-time dynamics with FRG: overcoming the burden of analytic continuation.” [[Slides]({{site.baseurl}}/docs/rose_erg18.pdf)]
 * “Dynamics and transport in the vicinity of a quantum phase transition.” [[Slides]({{site.baseurl}}/docs/seminar_munchen.pdf)]
 * “Conductivity in the vicinity of a quantum critical point.” [[Slides]({{site.baseurl}}/docs/rose_erg16.pdf)] [[Video](https://indico.ictp.it/event/7608/session/2/contribution/42/material/video/0.link)]
@@ -36,12 +45,13 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Conferences attended
 
-* [9<sup>th</sup> International Conference on the Exact Renormalization Group](https://erg2018.sciencesconf.org), Paris, France, July 2018.
-* [42<sup>nd</sup>Conference of the Middle European Cooperation in Statistical Physics](https://meco42.sciencesconf.org), Lyon, France, Febr. 2017.
-* [8<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.ictp.it/event/7608/), Trieste, Italy, Sept. 2016.
-* [Disorder in Condensed Matter and Ultracold Atoms](https://dcmua2016.sciencesconf.org), Cargèse, France, June-July 2016.
-* [Jdoclille2016](https://jdoclille2016.sciencesconf.org), Lille, France, June 2016.
-* [7<sup>th</sup> International Conference on the Exact Renormalization Group](http://erg2014.phys.uoa.gr), Lefkada, Greece, Sept. 2014.
+* [Polarons in the 21<sup>st</sup> Century](https://www.esi.ac.at/events/e25/), Vienna, Austria, Dec. 2019.
+* [9<sup>th</sup> International Conference on the Exact Renormalization Group](https://erg2018.sciencesconf.org), Paris, France, Jul. 2018.
+* [42<sup>nd</sup>Conference of the Middle European Cooperation in Statistical Physics](https://meco42.sciencesconf.org), Lyon, France, Feb. 2017.
+* [8<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.ictp.it/event/7608/), Trieste, Italy, Sep. 2016.
+* [Disorder in Condensed Matter and Ultracold Atoms](https://dcmua2016.sciencesconf.org), Cargèse, France, Jun.-Jul. 2016.
+* [Jdoclille2016](https://jdoclille2016.sciencesconf.org), Lille, France, Jun. 2016.
+* [7<sup>th</sup> International Conference on the Exact Renormalization Group](http://erg2014.phys.uoa.gr), Lefkada, Greece, Sep. 2014.
 
 
 

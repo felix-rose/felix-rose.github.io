@@ -7,7 +7,12 @@
 
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-         <li>Email: {{ site.email }}</li>
+{% if page.lang == 'en' %}
+         <li>E-mail: {{ site.email }}</li>
+{% endif %}
+{% if page.lang == 'fr' %}
+         <li>E-mail: {{ site.email_fr }}</li>
+{% endif %}
         </ul>
       </div>
 
@@ -18,14 +23,25 @@
       </div>
 
       <div class="footer-col footer-col-3">
+	  
+{% if page.lang == 'en' %}
         <p>{{ site.description }}</p>
+{% endif %}
+{% if page.lang == 'fr' %}
+        <p>{{ site.description_fr }}</p>
+{% endif %}
       </div>
     </div>
 
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
+{% if page.lang == 'en' %}
         <p class="text"><small> Site built with <a href="http://jekyllrb.com/">jekyll</a>, and hosted by <a href="http://github.com/felix-rose/felix-rose.github.io ">GitHub</a>.</small></p>
+{% endif %}
+{% if page.lang == 'fr' %}
+        <p class="text"><small> Site construit avec <a href="http://jekyllrb.com/">jekyll</a>, et hébergé par <a href="http://github.com/felix-rose/felix-rose.github.io ">GitHub</a>.</small></p>
+{% endif %}
       </div>  
     </div>
 

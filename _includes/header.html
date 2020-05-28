@@ -2,7 +2,15 @@
 
   <div class="wrapper">
 
+{% if page.lang == 'en' %}
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+{% endif %}
+
+{% if page.lang == 'fr' %}
+    <a class="site-title" href="{{ site.baseurl }}/fr/">{{ site.title }}</a>
+{% endif %}
+
+
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -13,8 +21,33 @@
         </svg>
       </a>
 
+
       <div class="trigger">
-      	{% assign pages = site.pages | sort:"weight"  %}
+{% if page.lang == 'en' %}
+	<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
+    <a class="lang-link-not" href="{{ site.baseurl }}/fr/{{ page.interLink }}">Français</a>
+    <a class="lang-link-spacer"> | </a>
+	<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
+    <a class="lang-link-current">English</a>
+    <a class="lang-link-spacer"> </a>
+{% endif %}
+
+{% if page.lang == 'fr' %}
+	<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
+    <a class="lang-link-current">Français</a>
+    <a class="lang-link-spacer"> | </a>
+		{% if page.ref == 'about' %}
+			<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
+			<a class="lang-link-not" href="{{ site.baseurl }}/">English</a>
+		{% endif %}
+		{% if page.ref != 'about' %}
+			<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
+			<a class="lang-link-not" href="{{ site.baseurl }}/en/{{ page.interLink }}">English</a>
+		{% endif %}
+    <a class="lang-link-spacer"> </a>
+{% endif %}
+	  
+      	{% assign pages = site.pages | where:"lang", page.lang | sort:"weight"  %}
         {% for page in pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

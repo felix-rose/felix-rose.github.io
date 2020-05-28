@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Thu Sep 20 11:53:29 2018
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/scratch/Dropbox/Site/felix-rose.github.io/.git/COMMIT_EDITMSG
+
+*** File '/scratch/Dropbox/Site/felix-rose.github.io/.git/COMMIT_EDITMSG'
+Version 1.04 PhD and typos cv
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Félix Rose <ge72tum@stupidix.t30.ph.tum.de>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   cv.md
+#	modified:   publi.md
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

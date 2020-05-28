@@ -41,6 +41,28 @@
             margin-right: 20px;
         }
     }
+	
+    .lang-link-current {
+        color: $text-color;
+        line-height: $base-line-height;
+		font-weight: bold;
+		text-decoration: none;
+
+        margin-right: 20px;
+    }
+    .lang-link-not {
+        color: $text-color;
+        line-height: $base-line-height;
+
+        margin-right: 20px;
+    }
+    .lang-link-spacer {
+        color: $text-color;
+        line-height: $base-line-height;
+		text-decoration: none;
+
+        margin-right: 20px;
+    }
 
     @include media-query($on-palm) {
         position: absolute;
