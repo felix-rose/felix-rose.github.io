@@ -11,10 +11,6 @@ interLink:
 [photo]: {{site.baseurl}}/docs/frose_1911.jpeg
 {: width="150px"} 
 
-<!--
-{: style="text-align: right"}
-width="100%;" max-width="100px;"
--->
 
 <div class="header">
   <h2 style="display: inline;">À propos</h2>
@@ -35,8 +31,8 @@ Sujets de recherche:
 
 Je travaille depuis 2019 au sein du groupe du [Dr. Richard Schmidt](https://quantummatter.de), partie de la [Division Théorie](http://www2.mpq.mpg.de/Theorygroup/CIRAC/index.html) de l'[Institut Max Planck d'Optique Quantique](https://www.mpq.mpg.de/en) de Garching (Allemagne).
 
-Avant ceci, j'ai soutenu ma thèse de doctorat en 2017, sous la direction du [Dr. Nicolas Dupuis](https://www.lptmc.jussieu.fr/users/dupuis) à l'Université Pierre et Marie Curie, désormais connue sous le nom de [Sorbonne Université](https://www.sorbonne-universite.fr/en), à Paris (France).
-J'ai été de 2017 à 2019 un membre du [groupe du Prof. Wilhelm Zwerger](http://einrichtungen.ph.tum.de/T34/) à l'[Université Technique de Munich](https://www.tum.de/nc/en/homepage/) à Garching (Allemagne).
+Avant, j'ai soutenu ma thèse de doctorat en 2017, sous la direction du [Dr. Nicolas Dupuis](https://www.lptmc.jussieu.fr/users/dupuis) à l'Université Pierre et Marie Curie, désormais connue sous le nom de [Sorbonne Université](https://www.sorbonne-universite.fr), à Paris (France).
+J'ai été de 2017 à 2019 membre du [groupe du Prof. Wilhelm Zwerger](http://einrichtungen.ph.tum.de/T34/) à l'[Université Technique de Munich](https://www.tum.de/nc/en/homepage/) à Garching (Allemagne).
 
 # Coordonnées
 

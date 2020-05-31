@@ -11,6 +11,36 @@
 {% endif %}
 
 
+  <div class="site-aux">
+    <nav class="site-lang">
+      <a  href="#" class="menu-icon">
+				<img src="{{site.baseurl}}/docs/Icon_language.svg" style="display: inline; line-height: $base-line-height;"/>
+      </a>
+
+
+      <div class="trigger">
+{% if page.lang == 'en' %}
+	
+    <a class="lang-link-not" href="{{ site.baseurl }}/fr/{{ page.interLink }}">
+<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>Français</a>
+    <a class="lang-link-spacer"> | </a>
+    <a class="lang-link-current"><img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>English</a>
+{% endif %}
+
+{% if page.lang == 'fr' %}
+    <a class="lang-link-current">
+	<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>Français</a>
+    <a class="lang-link-spacer"> | </a>
+		{% if page.ref == 'about' %}
+			<a class="lang-link-not" href="{{ site.baseurl }}/">
+			<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>English</a>
+		{% endif %}
+		{% if page.ref != 'about' %}
+			<a class="lang-link-not" href="{{ site.baseurl }}/en/{{ page.interLink }}"><img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>English</a>
+		{% endif %}
+{% endif %}
+      </div>
+    </nav>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -23,29 +53,6 @@
 
 
       <div class="trigger">
-{% if page.lang == 'en' %}
-	<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
-    <a class="lang-link-not" href="{{ site.baseurl }}/fr/{{ page.interLink }}">Français</a>
-    <a class="lang-link-spacer"> | </a>
-	<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
-    <a class="lang-link-current">English</a>
-    <a class="lang-link-spacer"> </a>
-{% endif %}
-
-{% if page.lang == 'fr' %}
-	<img src="{{site.baseurl}}/docs/Flag_of_France.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
-    <a class="lang-link-current">Français</a>
-    <a class="lang-link-spacer"> | </a>
-		{% if page.ref == 'about' %}
-			<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
-			<a class="lang-link-not" href="{{ site.baseurl }}/">English</a>
-		{% endif %}
-		{% if page.ref != 'about' %}
-			<img src="{{site.baseurl}}/docs/Flag_of_the_United_Kingdom.svg" style="display: inline; line-height: $base-line-height; margin-right: 3px; height: 15px;"/>
-			<a class="lang-link-not" href="{{ site.baseurl }}/en/{{ page.interLink }}">English</a>
-		{% endif %}
-    <a class="lang-link-spacer"> </a>
-{% endif %}
 	  
       	{% assign pages = site.pages | where:"lang", page.lang | sort:"weight"  %}
         {% for page in pages %}
@@ -56,6 +63,7 @@
       </div>
     </nav>
 
+      </div>
   </div>
 
 </header>

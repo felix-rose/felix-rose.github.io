@@ -10,8 +10,8 @@ interLink: cv.html
 # Expérience de recherche
 
 
-* **2019 - présent**: Chercheur postdoctoral à l'[Institut Max Planck d'Optique Quantique](https://www.mpq.mpg.de/en) (Garching, Allemagne), dans le [groupe du Dr. Richard Schmidt](https://quantummatter.de) au sein de la [Division Théorie](http://www2.mpq.mpg.de/Theorygroup/CIRAC/index.html).
-* **2017 - 2019**: Chercheur postdoctoral à l'[Université Technique de Munich](https://www.tum.de/nc/en/homepage/) (Garching, Allemagne), dans le [groupe du Prof. Wilhelm Zwerger](http://einrichtungen.ph.tum.de/T34/).
+* **2019 - présent**: Chercheur postdoctoral à l'[Institut Max Planck d'Optique Quantique](https://www.mpq.mpg.de/en), Garching (Allemagne), dans le [groupe du Dr. Richard Schmidt](https://quantummatter.de) au sein de la [Division Théorie](http://www2.mpq.mpg.de/Theorygroup/CIRAC/index.html).
+* **2017 - 2019**: Chercheur postdoctoral à l'[Université Technique de Munich](https://www.tum.de/nc/en/homepage/), Garching (Allemagne), dans le [groupe du Prof. Wilhelm Zwerger](http://einrichtungen.ph.tum.de/T34/).
 * **2014 - 2017**: Doctorant à l'[Université Pierre et Marie Curie](https://www.sorbonne-universite.fr), Paris (France).
   + Directeur de thèse: [Dr. Nicolas Dupuis](https://www.lptmc.jussieu.fr/users/dupuis).
   + Titre: *Dynamique et transport au voisinage d’une transition de phase quantique en dimension deux*.
@@ -31,9 +31,9 @@ interLink: cv.html
 
 * **2018 - 2019**: Chargé de TD et coordinateur, [Université Technique de Munich](https://www.tum.de/nc/en/homepage/).
   + Théorie de la matière condensée (Master). 
-* **2014 - 2017**: Chargé de mission d'enseignement, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en).
+* **2014 - 2017**: Chargé de mission d'enseignement, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/).
   + Tutorat en mathématiques (License).
   + Introduction à *Mathematica* (License).
   + Physique statistique quantique (Master).
-* **2014**: Moniteur, [École Polytechnique](http://www.polytechnique.edu/en).
+* **2014**: Moniteur, [École Polytechnique](http://www.polytechnique.edu/).
   + Tutorat individuel en mécanique quantique élémentaire.

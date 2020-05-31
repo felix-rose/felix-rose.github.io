@@ -24,8 +24,102 @@
     }
 }
 
+.site-aux {
+	float:right;
+	}
+
+.site-lang {
+  display: inline-block;
+    line-height: 56px;
+    margin-right: 45px;
+
+    .menu-icon {
+        display: none;
+    }
+	
+    .lang-link-current {
+        color: $text-color;
+        line-height: $base-line-height;
+		font-weight: bold;
+		text-decoration: none;
+
+        margin-right: 10px;
+    }
+    .lang-link-not {
+        color: $text-color;
+        line-height: $base-line-height;
+
+        margin-right: 10px;
+    }
+    .lang-link-spacer {
+        color: $text-color;
+        line-height: $base-line-height;
+		text-decoration: none;
+
+        margin-right: 10px;
+    }
+
+    @include media-query($on-palm) {
+        position: absolute;
+        top: 9px;
+        right: $spacing-unit / 2;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: left;
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            > svg {
+                width: 18px;
+                height: 15px;
+
+                path {
+                    fill: $grey-color-dark;
+                }
+            }
+        }
+
+        .trigger {
+            clear: both;
+            display: none;
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .lang-link-current {
+            display: block;
+            padding: 5px 10px;
+            margin-right: 0;
+
+        }
+
+        .lang-link-not{
+            display: block;
+            padding: 5px 10px;
+            margin-right: 0;
+
+        }
+
+        .lang-link-spacer {
+            display: none;
+        }
+    }
+}
+
+
 .site-nav {
-    float: right;
+  display: inline-block;
     line-height: 56px;
 
     .menu-icon {
@@ -41,28 +135,6 @@
             margin-right: 20px;
         }
     }
-	
-    .lang-link-current {
-        color: $text-color;
-        line-height: $base-line-height;
-		font-weight: bold;
-		text-decoration: none;
-
-        margin-right: 20px;
-    }
-    .lang-link-not {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        margin-right: 20px;
-    }
-    .lang-link-spacer {
-        color: $text-color;
-        line-height: $base-line-height;
-		text-decoration: none;
-
-        margin-right: 20px;
-    }
 
     @include media-query($on-palm) {
         position: absolute;
@@ -71,7 +143,7 @@
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: left;
 
         .menu-icon {
             display: block;
@@ -109,7 +181,6 @@
             &:not(:last-child) {
                 margin-right: 0;
             }
-            margin-left: 20px;
         }
     }
 }
