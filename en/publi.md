@@ -11,6 +11,9 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Journal articles
 
+0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;Rose**, O.&nbsp;Golan and S.&nbsp;Moroz.  
+[SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), 
+[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]
 0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
 [Phys. Rev. B **97**, 174514 (2018)](https://doi.org/10.1103/PhysRevB.97.174514), [arXiv:1801.03118 [cond-mat.stat-mech]](https://arxiv.org/abs/1801.03118). [[PDF]({{site.baseurl}}/docs/PhysRevB.97.174514.pdf)]
 0. “Superuniversal transport near a (2+1)-dimensional quantum critical point,” **F.&nbsp;Rose** and N.&nbsp;Dupuis.  
@@ -27,10 +30,9 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
  [Phys. Rev. B **88**, 125438 (2013)](https://dx.doi.org/10.1103/PhysRevB.88.125438), [arXiv:1307.2884 [cond-mat.mes-hall]](https://arxiv.org/abs/1307.2884). [[PDF]({{site.baseurl}}/docs/PhysRevB.88.125438.pdf)]
 {: reversed="reversed"}
 
+<!--
 # Prepublications
-
-0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;Rose**, O.&nbsp;Golan and S.&nbsp;Moroz.  
-[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).  
+-->
 
 # Posters and presentations given
 

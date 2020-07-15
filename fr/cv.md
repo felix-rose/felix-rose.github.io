@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: Curriculum vitæ
 weight: 3
 lang: fr
 ref: cv

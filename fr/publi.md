@@ -10,7 +10,9 @@ interLink: publi.html
 Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
 # Articles publiés
-
+0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, O.&nbsp;<span style="font-variant:small-caps;">Golan</span> et S.&nbsp;<span style="font-variant:small-caps;">Moroz</span>.  
+[SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), 
+[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]
 0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
 [Phys. Rev. B **97**, 174514 (2018)](https://doi.org/10.1103/PhysRevB.97.174514), [arXiv:1801.03118 [cond-mat.stat-mech]](https://arxiv.org/abs/1801.03118). [[PDF]({{site.baseurl}}/docs/PhysRevB.97.174514.pdf)]
 0. “Superuniversal transport near a (2+1)-dimensional quantum critical point,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
