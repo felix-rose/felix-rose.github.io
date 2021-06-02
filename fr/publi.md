@@ -11,8 +11,7 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Articles publiés
 0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, O.&nbsp;<span style="font-variant:small-caps;">Golan</span> et S.&nbsp;<span style="font-variant:small-caps;">Moroz</span>.  
-[SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), 
-[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]
+[SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), [arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]
 0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
 [Phys. Rev. B **97**, 174514 (2018)](https://doi.org/10.1103/PhysRevB.97.174514), [arXiv:1801.03118 [cond-mat.stat-mech]](https://arxiv.org/abs/1801.03118). [[PDF]({{site.baseurl}}/docs/PhysRevB.97.174514.pdf)]
 0. “Superuniversal transport near a (2+1)-dimensional quantum critical point,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
@@ -31,8 +30,8 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Prépublications
 
-0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, O.&nbsp;<span style="font-variant:small-caps;">Golan</span> et S.&nbsp;<span style="font-variant:small-caps;">Moroz</span>.  
-[arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).  
+0.  “Functional renormalization group approach to strongly-coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;<span style="font-variant:small-caps;">von&nbsp;Milczewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
+[arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017).  
 {: reversed="reversed"}
 
 # Posters et présentations orales
@@ -48,6 +47,7 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Participations à des conférences
 
+* [52<sup>nd</sup> Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics](http://meetings.aps.org/Meeting/DAMOP21), En ligne, Juin 2021.
 * [Polarons in the 21<sup>st</sup> Century](https://www.esi.ac.at/events/e25/), Vienne, Autriche, Déc. 2019.
 * [9<sup>th</sup> International Conference on the Exact Renormalization Group](https://erg2018.sciencesconf.org), Paris, France, Juil. 2018.
 * [42<sup>nd</sup>Conference of the Middle European Cooperation in Statistical Physics](https://meco42.sciencesconf.org), Lyon, France, Fév. 2017.

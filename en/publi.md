@@ -30,9 +30,11 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
  [Phys. Rev. B **88**, 125438 (2013)](https://dx.doi.org/10.1103/PhysRevB.88.125438), [arXiv:1307.2884 [cond-mat.mes-hall]](https://arxiv.org/abs/1307.2884). [[PDF]({{site.baseurl}}/docs/PhysRevB.88.125438.pdf)]
 {: reversed="reversed"}
 
-<!--
 # Prepublications
--->
+
+0.  “Functional renormalization group approach to strongly-coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;von&nbsp;Milczewski, **F.&nbsp;Rose**, et R.&nbsp;Schmidt.  
+[arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017).  
+{: reversed="reversed"}
 
 # Posters and presentations given
 
@@ -47,6 +49,7 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Conferences attended
 
+* [52<sup>nd</sup> Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics](http://meetings.aps.org/Meeting/DAMOP21), Online, Jun. 2021.
 * [Polarons in the 21<sup>st</sup> Century](https://www.esi.ac.at/events/e25/), Vienna, Austria, Dec. 2019.
 * [9<sup>th</sup> International Conference on the Exact Renormalization Group](https://erg2018.sciencesconf.org), Paris, France, Jul. 2018.
 * [42<sup>nd</sup>Conference of the Middle European Cooperation in Statistical Physics](https://meco42.sciencesconf.org), Lyon, France, Feb. 2017.
