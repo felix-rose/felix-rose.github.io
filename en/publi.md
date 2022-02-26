@@ -13,15 +13,15 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 
 0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;Rose**, C.&nbsp;Pagani, and N.&nbsp;Dupuis.  
-[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174).
-0. “Disorder in order: localization in a randomless cold atom system,” **F.&nbsp;Rose** and R.&nbsp;Schmidt.  
-[arXiv:2107.06931 [cond-mat.quant-gas]](https://arxiv.org/abs/2107.06931).
-0.  “Functional renormalization group approach to strongly-coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;von&nbsp;Milczewski, **F.&nbsp;Rose**, and R.&nbsp;Schmidt.  
-[arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017).  
+[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). 
 {: reversed="reversed"}
 
 # Journal articles
 
+0. “Disorder in order: Localization without randomness in a cold-atom system,” **F.&nbsp;Rose** and R.&nbsp;Schmidt.  
+[Phys. Rev. A **105**, 013324 (2022)](https://doi.org/10.1103/PhysRevA.105.013324), [arXiv:2107.06931 [cond-mat.quant-gas]](https://arxiv.org/abs/2107.06931). [[PDF]({{site.baseurl}}/docs/PhysRevA.105.013324.pdf)]
+0.  “Functional-renormalization-group approach to strongly coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;von&nbsp;Milczewski, **F.&nbsp;Rose**, and R.&nbsp;Schmidt.  
+[Phys. Rev. A **105**, 013317 (2022)](https://doi.org/10.1103/PhysRevA.105.013317), [arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017). [[PDF]({{site.baseurl}}/docs/PhysRevA.105.013317.pdf)] 
 0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;Rose**, O.&nbsp;Golan and S.&nbsp;Moroz.  
 [SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), 
 [arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]

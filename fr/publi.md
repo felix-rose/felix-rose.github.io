@@ -14,16 +14,16 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 
 0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, C.&nbsp;<span style="font-variant:small-caps;">Pagani</span>, et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
-[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174).
-0. “Disorder in order: localization in a randomless cold atom system,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
-[arXiv:2107.06931 [cond-mat.quant-gas]](https://arxiv.org/abs/2107.06931).
-0.  “Functional renormalization group approach to strongly-coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;<span style="font-variant:small-caps;">von&nbsp;Milczewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
-[arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017).  
+[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). 
 {: reversed="reversed"}
 
 
 # Articles publiés
 
+0. “Disorder in order: Localization without randomness in a cold-atom system,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
+[Phys. Rev. A **105**, 013324 (2022)](https://doi.org/10.1103/PhysRevA.105.013324), [arXiv:2107.06931 [cond-mat.quant-gas]](https://arxiv.org/abs/2107.06931). [[PDF]({{site.baseurl}}/docs/PhysRevA.105.013324.pdf)]
+0.  “Functional-renormalization-group approach to strongly coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;<span style="font-variant:small-caps;">von&nbsp;Milczewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
+[Phys. Rev. A **105**, 013317 (2022)](https://doi.org/10.1103/PhysRevA.105.013317), [arXiv:2104.14017 [cond-mat.quant-gas]](https://arxiv.org/abs/2104.14017). [[PDF]({{site.baseurl}}/docs/PhysRevA.105.013317.pdf)] 
 0.  “Hall viscosity and conductivity of two-dimensional chiral superconductors,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, O.&nbsp;<span style="font-variant:small-caps;">Golan</span> et S.&nbsp;<span style="font-variant:small-caps;">Moroz</span>.  
 [SciPost Phys. **9**, 006 (2020)](https://doi.org/10.21468/SciPostPhys.9.1.006), [arXiv:2004.02590 [cond-mat.supr-con]](https://arxiv.org/abs/2004.02590).   [[PDF]({{site.baseurl}}/docs/SciPostPhys_9_1_006.pdf)]
 0. “Nonperturbative renormalization-group approach preserving the momentum dependence of correlation functions,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
