@@ -9,17 +9,20 @@ interLink: publi.html
 
 Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-
+<!--
 # Prépublications
 
 
 0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, C.&nbsp;<span style="font-variant:small-caps;">Pagani</span>, et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
 [arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). 
 {: reversed="reversed"}
-
+-->
 
 # Articles publiés
 
+0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, C.&nbsp;<span style="font-variant:small-caps;">Pagani</span>, et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
+[Phys. Rev. D **105**, 065020 (2022)](https://doi.org/10.1103/PhysRevD.105.065020),
+[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). [[PDF]({{site.baseurl}}/docs/PhysRevD.105.065020.pdf)]
 0. “Disorder in order: Localization without randomness in a cold-atom system,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>** et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
 [Phys. Rev. A **105**, 013324 (2022)](https://doi.org/10.1103/PhysRevA.105.013324), [arXiv:2107.06931 [cond-mat.quant-gas]](https://arxiv.org/abs/2107.06931). [[PDF]({{site.baseurl}}/docs/PhysRevA.105.013324.pdf)]
 0.  “Functional-renormalization-group approach to strongly coupled Bose-Fermi mixtures in two dimensions,” J.&nbsp;<span style="font-variant:small-caps;">von&nbsp;Milczewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.  
