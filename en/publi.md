@@ -49,6 +49,7 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Posters and presentations given
 
+* “Operator product expansion coefficients from the nonperturbative functional renormalization group.” [[Slides]({{site.baseurl}}/docs/rose_erg22.pdf)]
 * “Disorder in order: Anderson localization in a randomless cold atom system.” [[Slides]({{site.baseurl}}/docs/rose_groupSem20.pdf)]
 * “Disorder in order: simulating a random scattering potential with a randomless cold atom system.” [[Slides]({{site.baseurl}}/docs/rose_vienna19.pdf)] [[Video](https://www.youtube.com/watch?v=3MMhnhb2H9Y)]
 * “Hall conductivity and viscosity of a two-dimensional chiral *p*+i*p* superconductor.” [[Slides]({{site.baseurl}}/docs/rose_retreat19.pdf)]
@@ -60,7 +61,8 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Conferences attended
 
-* [Bose-Einstein Condensation 2021](https://bec2021.org), Sant Feliu de Guixols (Spain), Sep. 2021.
+* [11<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.tpi.uni-jena.de/event/199/), Berlin, Germany, Jul. 2022.
+* [Bose-Einstein Condensation 2021](https://bec2021.org), Sant Feliu de Guixols, Spain, Sep. 2021.
 * [17<sup>èmes</sup> journées de la matière condensée](https://jmc17.sciencesconf.org), online, Aug. 2021.
 * [52<sup>nd</sup> Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics](http://meetings.aps.org/Meeting/DAMOP21), online, Jun. 2021.
 * [Polarons in the 21<sup>st</sup> Century](https://www.esi.ac.at/events/e25/), Vienna, Austria, Dec. 2019.
