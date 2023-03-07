@@ -47,6 +47,7 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Posters et présentations orales
 
+* “The nonperturbative functional renormalization group for classical and bosonic systems: overview and examples.” [[Slides]({{site.baseurl}}/docs/Rose_LMUSeminar22.pdf)]
 * “Operator product expansion coefficients from the nonperturbative functional renormalization group.” [[Diapositives]({{site.baseurl}}/docs/rose_erg22.pdf)]
 * “Disorder in order: Anderson localization in a randomless cold atom system.” [[Diapositives]({{site.baseurl}}/docs/rose_groupSem20.pdf)]
 * “Disorder in order: simulating a random scattering potential with a randomless cold atom system.” [[Diapositives]({{site.baseurl}}/docs/rose_vienna19.pdf)] [[Vidéo](https://www.youtube.com/watch?v=3MMhnhb2H9Y)]
