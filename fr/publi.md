@@ -9,14 +9,14 @@ interLink: publi.html
 
 Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-<!--
+
 # Prépublications
 
 
-0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, C.&nbsp;<span style="font-variant:small-caps;">Pagani</span>, et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
-[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). 
+0. “Feshbach resonances of composite charge carrier states in atomically thin semiconductor heterostructures,” M. &nbsp;<span style="font-variant:small-caps;">Wagner</span>, R.&nbsp;<span style="font-variant:small-caps;">Ołdziejewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, V.&nbsp;<span style="font-variant:small-caps;">Köder</span>, C.&nbsp;<span style="font-variant:small-caps;">Kuhlenkamp</span>, A.&nbsp;<span style="font-variant:small-caps;">İmamoğlu</span>, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.   
+[arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
 {: reversed="reversed"}
--->
+
 
 # Articles publiés
 
@@ -47,7 +47,8 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Posters et présentations orales
 
-* “The nonperturbative functional renormalization group for classical and bosonic systems: overview and examples.” [[Slides]({{site.baseurl}}/docs/Rose_LMUSeminar22.pdf)]
+* “Strongly coupled Bose-Fermi mixtures in 2*d*.” [[Diapositives]({{site.baseurl}}/docs/BFMixtures.pdf)]
+* “The nonperturbative functional renormalization group for classical and bosonic systems: overview and examples.” [[Diapositives]({{site.baseurl}}/docs/Rose_LMUSeminar22.pdf)]
 * “Operator product expansion coefficients from the nonperturbative functional renormalization group.” [[Diapositives]({{site.baseurl}}/docs/rose_erg22.pdf)]
 * “Disorder in order: Anderson localization in a randomless cold atom system.” [[Diapositives]({{site.baseurl}}/docs/rose_groupSem20.pdf)]
 * “Disorder in order: simulating a random scattering potential with a randomless cold atom system.” [[Diapositives]({{site.baseurl}}/docs/rose_vienna19.pdf)] [[Vidéo](https://www.youtube.com/watch?v=3MMhnhb2H9Y)]
@@ -60,7 +61,8 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Participations à des conférences
 
-* [11<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.tpi.uni-jena.de/event/199/), Berlin, Allemagne, Jul. 2022.
+* [Exploring New Topics with Functional Renormalisation](https://www.we-heraeus-stiftung.de/veranstaltungen/exploring-new-topics-with-functional-renormalisation/), Bad Honnef, Allemagne, Mai 2023.
+* [11<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.tpi.uni-jena.de/event/199/), Berlin, Allemagne, Juil. 2022.
 * [Bose-Einstein Condensation 2021](https://bec2021.org), Sant Feliu de Guixols, Espagne, Sep. 2021.
 * [17<sup>èmes</sup> journées de la matière condensée](https://jmc17.sciencesconf.org), en ligne, Aout 2021.
 * [52<sup>nd</sup> Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics](http://meetings.aps.org/Meeting/DAMOP21), en ligne, Juin 2021.
