@@ -47,6 +47,7 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Posters et présentations orales
 
+* “Probability distribution function of the 2*d* Ising order parameter.” [[Diapositives]({{site.baseurl}}/docs/Rose_ERG24.pdf)]
 * “Strongly coupled Bose-Fermi mixtures in 2*d*.” [[Diapositives]({{site.baseurl}}/docs/BFMixtures.pdf)]
 * “The nonperturbative functional renormalization group for classical and bosonic systems: overview and examples.” [[Diapositives]({{site.baseurl}}/docs/Rose_LMUSeminar22.pdf)]
 * “Operator product expansion coefficients from the nonperturbative functional renormalization group.” [[Diapositives]({{site.baseurl}}/docs/rose_erg22.pdf)]
@@ -61,6 +62,7 @@ Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](h
 
 # Participations à des conférences
 
+* [12<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.cern.ch/event/1244171/), Les Diablerets, Suisse, Sep. 2024.
 * [Exploring New Topics with Functional Renormalisation](https://www.we-heraeus-stiftung.de/veranstaltungen/exploring-new-topics-with-functional-renormalisation/), Bad Honnef, Allemagne, Mai 2023.
 * [11<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.tpi.uni-jena.de/event/199/), Berlin, Allemagne, Juil. 2022.
 * [Bose-Einstein Condensation 2021](https://bec2021.org), Sant Feliu de Guixols, Espagne, Sep. 2021.
