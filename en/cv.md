@@ -10,10 +10,11 @@ interLink: cv.html
 # Research experience
 
 
-* **2023 - present**: Postdoctoral researcher at the [Institute for Theoretical Physics](https://www.thphys.uni-heidelberg.de/index.php?lang=e) of the [University of Heidelberg](https://www.uni-heidelberg.de/en) (Germany) in the group of [Prof. Tilman Enss](https://www.thphys.uni-heidelberg.de/~enss/).
+* **2023 - present**: Non-permanent lecturer at the [Laboratory of Theoretical Physics and Modelling](https://lptm.cyu.fr/welcome-to-the-lptm), [CY Cergy Paris Université](https://www.cyu.fr/en).
+* **2023**: Postdoctoral researcher at the [Institute for Theoretical Physics](https://www.thphys.uni-heidelberg.de/index.php?lang=e) of the [University of Heidelberg](https://www.uni-heidelberg.de/en) (Germany) in the group of [Prof. Tilman Enss](https://www.thphys.uni-heidelberg.de/~enss/).
 * **2019 - 2022**: Postdoctoral researcher at the [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en) (Germany), in [Dr. Richard Schmidt's group](https://quantummatter.de), part of the [Theory Division](https://www.mpq.mpg.de/6497359/theory-homepage).
-* **2017 - 2019**: Postdoctoral researcher at the [Technical University of Munich](https://www.tum.de/nc/en/homepage/) (Germany), in [Prof. Wilhelm Zwerger's group](http://einrichtungen.ph.tum.de/T34/).
-* **2014 - 2017**: Ph.D. candidate at [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr), Paris (France).
+* **2017 - 2019**: Postdoctoral researcher at the [Technical University of Munich](https://www.tum.de/en/) (Germany), in [Prof. Wilhelm Zwerger's group](http://einrichtungen.ph.tum.de/T34/).
+* **2014 - 2017**: Ph.D. candidate at [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en), Paris (France).
   + Advisor: [Dr. Nicolas Dupuis](https://www.lptmc.jussieu.fr/users/dupuis).
   + Dissertation title: *Dynamics and transport in the vicinity of a two-dimensional quantum critical point*.
 * **2013**: Masters intern at [Université Paris Sud](https://www.universite-paris-saclay.fr/en), Orsay (France).
@@ -30,6 +31,9 @@ interLink: cv.html
 
 # Teaching experience
 
+* **2023 - present**: Lecturer, [CY Cergy Paris Université](https://www.cyu.fr/en).
+* **2023**: Teaching assistant, [University of Heidelberg](https://www.uni-heidelberg.de/en).
+  + Advanced quantum mechanics (graduate).
 * **2018 - 2019**: Teaching assistant and coordinator, [Technical University of Munich](https://www.tum.de/en/).
   + Theory of condensed matter (graduate). 
 * **2014 - 2017**: Teaching assistant, [Université Pierre et Marie Curie](https://www.sorbonne-universite.fr/en).

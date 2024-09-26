@@ -9,14 +9,14 @@ interLink: publi.html
 
 Bibliometrics can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-<!--
+
 # Prepublications
 
 
-0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;Rose**, C.&nbsp;Pagani, and N.&nbsp;Dupuis.  
-[arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). 
+0. “Feshbach resonances of composite charge carrier states in atomically thin semiconductor heterostructures,” M. Wagner, R. Ołdziejewski, **F.&nbsp;Rose**, V.&nbsp;Köder, C. Kuhlenkamp, A. İmamoğlu, and R. Schmidt.   
+[arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
 {: reversed="reversed"}
--->
+
 
 # Journal articles
 
@@ -49,6 +49,8 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Posters and presentations given
 
+* “Probability distribution function of the 2*d* Ising order parameter.” [[Slides]({{site.baseurl}}/docs/Rose_ERG24.pdf)]
+* “Strongly coupled Bose-Fermi mixtures in 2*d*.” [[Slides]({{site.baseurl}}/docs/BFMixtures.pdf)]
 * “The nonperturbative functional renormalization group for classical and bosonic systems: overview and examples.” [[Slides]({{site.baseurl}}/docs/Rose_LMUSeminar22.pdf)]
 * “Operator product expansion coefficients from the nonperturbative functional renormalization group.” [[Slides]({{site.baseurl}}/docs/rose_erg22.pdf)]
 * “Disorder in order: Anderson localization in a randomless cold atom system.” [[Slides]({{site.baseurl}}/docs/rose_groupSem20.pdf)]
@@ -62,6 +64,8 @@ Bibliometrics can be found in my [Google Scholar profile](https://scholar.google
 
 # Conferences attended
 
+* [12<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.cern.ch/event/1244171/), Les Diablerets, Switzerland, Sep. 2024.
+* [Exploring New Topics with Functional Renormalisation](https://www.we-heraeus-stiftung.de/veranstaltungen/exploring-new-topics-with-functional-renormalisation/), Bad Honnef, Germany, May 2023.
 * [11<sup>th</sup> International Conference on the Exact Renormalization Group](https://indico.tpi.uni-jena.de/event/199/), Berlin, Germany, Jul. 2022.
 * [Bose-Einstein Condensation 2021](https://bec2021.org), Sant Feliu de Guixols, Spain, Sep. 2021.
 * [17<sup>èmes</sup> journées de la matière condensée](https://jmc17.sciencesconf.org), online, Aug. 2021.
