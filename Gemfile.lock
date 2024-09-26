@@ -267,11 +267,12 @@ GEM
     unf_ext (0.0.9.1)
     unf_ext (0.0.9.1-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   x64-mingw-ucrt
   x86_64-cygwin
+  x86_64-linux
 
 DEPENDENCIES
   faraday-retry (~> 2.2)
