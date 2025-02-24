@@ -9,17 +9,19 @@ interLink: publi.html
 
 Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-
+<!--
 # Prépublications
 
 
 0. “Feshbach resonances of composite charge carrier states in atomically thin semiconductor heterostructures,” M. &nbsp;<span style="font-variant:small-caps;">Wagner</span>, R.&nbsp;<span style="font-variant:small-caps;">Ołdziejewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, V.&nbsp;<span style="font-variant:small-caps;">Köder</span>, C.&nbsp;<span style="font-variant:small-caps;">Kuhlenkamp</span>, A.&nbsp;<span style="font-variant:small-caps;">İmamoğlu</span>, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.   
 [arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
 {: reversed="reversed"}
-
+-->
 
 # Articles publiés
 
+0. “Feshbach Resonances in Exciton–Charge-Carrier Scattering in Semiconductor Bilayers,” M. &nbsp;<span style="font-variant:small-caps;">Wagner</span>, R.&nbsp;<span style="font-variant:small-caps;">Ołdziejewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, V.&nbsp;<span style="font-variant:small-caps;">Köder</span>, C.&nbsp;<span style="font-variant:small-caps;">Kuhlenkamp</span>, A.&nbsp;<span style="font-variant:small-caps;">İmamoğlu</span>, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.   
+[Phys. Rev. Lett. **134**, 076903 (2025)](https://doi.org/10.1103/PhysRevLett.134.076903), [arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). [[PDF]({{site.baseurl}}/docs/PhysRevLett.134.076903.pdf)]
 0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, C.&nbsp;<span style="font-variant:small-caps;">Pagani</span>, et N.&nbsp;<span style="font-variant:small-caps;">Dupuis</span>.  
 [Phys. Rev. D **105**, 065020 (2022)](https://doi.org/10.1103/PhysRevD.105.065020),
 [arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). [[PDF]({{site.baseurl}}/docs/PhysRevD.105.065020.pdf)]

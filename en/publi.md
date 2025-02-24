@@ -9,17 +9,19 @@ interLink: publi.html
 
 Bibliometrics can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-
+<!---
 # Prepublications
 
 
-0. “Feshbach resonances of composite charge carrier states in atomically thin semiconductor heterostructures,” M. Wagner, R. Ołdziejewski, **F.&nbsp;Rose**, V.&nbsp;Köder, C. Kuhlenkamp, A. İmamoğlu, and R. Schmidt.   
+0. “Feshbach Resonances in Exciton–Charge-Carrier Scattering in Semiconductor Bilayers,” M. Wagner, R. Ołdziejewski, **F.&nbsp;Rose**, V.&nbsp;Köder, C. Kuhlenkamp, A. İmamoğlu, and R. Schmidt.   
 [arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
 {: reversed="reversed"}
-
+-->
 
 # Journal articles
 
+0. “Feshbach Resonances in Exciton–Charge-Carrier Scattering in Semiconductor Bilayers,” M. Wagner, R. Ołdziejewski, **F.&nbsp;Rose**, V.&nbsp;Köder, C. Kuhlenkamp, A. İmamoğlu, and R. Schmidt.   
+[Phys. Rev. Lett. **134**, 076903 (2025)](https://doi.org/10.1103/PhysRevLett.134.076903), [arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). [[PDF]({{site.baseurl}}/docs/PhysRevLett.134.076903.pdf)]
 0. “Operator product expansion coefficients from the nonperturbative functional renormalization group,” **F.&nbsp;Rose**, C.&nbsp;Pagani, and N.&nbsp;Dupuis.  
 [Phys. Rev. D **105**, 065020 (2022)](https://doi.org/10.1103/PhysRevD.105.065020),
 [arXiv:2110.13174 [hep-th]](https://arxiv.org/abs/2110.13174). [[PDF]({{site.baseurl}}/docs/PhysRevD.105.065020.pdf)]
