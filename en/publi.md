@@ -9,14 +9,12 @@ interLink: publi.html
 
 Bibliometrics can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-<!---
 # Prepublications
 
 
-0. “Feshbach Resonances in Exciton–Charge-Carrier Scattering in Semiconductor Bilayers,” M. Wagner, R. Ołdziejewski, **F.&nbsp;Rose**, V.&nbsp;Köder, C. Kuhlenkamp, A. İmamoğlu, and R. Schmidt.   
-[arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
+0. “Constraint effective action and critical correlation functions at fixed magnetization,”  **F.&nbsp;Rose**, A.&nbsp;Rançon, and I. Balog.
+[arXiv:2509.05195 [cond-mat.stat-mech]](https://arxiv.org/abs/2509.05195). 
 {: reversed="reversed"}
--->
 
 # Journal articles
 

@@ -9,14 +9,12 @@ interLink: publi.html
 
 Mes données bibliométriques sont disponibles sur mon [profil Google Scholar](https://scholar.google.com/citations?user=Vw_RiCgAAAAJ).
 
-<!--
+
 # Prépublications
 
-
-0. “Feshbach resonances of composite charge carrier states in atomically thin semiconductor heterostructures,” M. &nbsp;<span style="font-variant:small-caps;">Wagner</span>, R.&nbsp;<span style="font-variant:small-caps;">Ołdziejewski</span>, **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, V.&nbsp;<span style="font-variant:small-caps;">Köder</span>, C.&nbsp;<span style="font-variant:small-caps;">Kuhlenkamp</span>, A.&nbsp;<span style="font-variant:small-caps;">İmamoğlu</span>, et R.&nbsp;<span style="font-variant:small-caps;">Schmidt</span>.   
-[arXiv:2310.08729 [cond-mat.mes-hall]](https://arxiv.org/abs/2310.08729). 
+0. “Constraint effective action and critical correlation functions at fixed magnetization,”  **F.&nbsp;<span style="font-variant:small-caps;">Rose</span>**, A.&nbsp;<span style="font-variant:small-caps;">Rançon</span>, et I. <span style="font-variant:small-caps;">Balog</span>.
+[arXiv:2509.05195 [cond-mat.stat-mech]](https://arxiv.org/abs/2509.05195). 
 {: reversed="reversed"}
--->
 
 # Articles publiés
 
